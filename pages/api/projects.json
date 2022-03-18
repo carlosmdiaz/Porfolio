@@ -1,18 +1,20 @@
 [
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
+    "name": "EventPrism",
+    "image": "/EventPrism.png",
     "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "tags": ["react", "api", "css", "styled-components"],
+    "source_code": "https://github.com/carlosmdiaz/EventPrism",
+    "demo": "https://eventprism.netlify.app/"
   },
   {
     "id": 1,
-    "name": "YouTube Clone",
-    "image": "https://imgur.com/O7kt2Lp.png",
+    "name": "Chat App",
+    "image": "/ChatApp.png",
     "description": "A platform for web developers to showcase their projects",
-    "tags": ["react", "api", "css", "react native", "styled-components"],
-    "source_code": "https://github.com/CleverProgrammers/react-native-youtube-clone"
+    "tags": ["react", "api", "css", "styled-components"],
+    "source_code": "https://github.com/carlosmdiaz/Chat-App",
+    "demo": "https://carlos-chat-app.netlify.app/"
   }
 ]

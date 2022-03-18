@@ -16,90 +16,62 @@ const ContactCode = () => {
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;email:{' '}
         <a
-          href="mailto:nazariy@cleverprogrammer.com"
+          href="mailto:carlosdiaz3979@gmail.com"
           target="_blank"
           rel="noopener"
         >
-          nazariy@cleverprogrammer.com
+          carlosdiaz3979@gmail.com
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;github:{' '}
-        <a href="https://github.com/nazariy995" target="_blank" rel="noopener">
-          nazariy995
+        <a href="https://github.com/carlosmdiaz" target="_blank" rel="noopener">
+          carlosmdiaz
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;linkedin:{' '}
         <a
-          href="https://www.linkedin.com/in/nitinranganath/"
+          href="https://www.linkedin.com/in/carlos-diaz-b3bbbb165/"
           target="_blank"
           rel="noopener"
         >
-          nitinranganath
+          carlosdiaz
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;twitter:{' '}
         <a
-          href="https://www.twitter.com/iamnitinr"
+          href="https://twitter.com/memelo1020"
           target="_blank"
           rel="noopener"
         >
-          iamnitinr
+          memelo1020
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;instagram:{' '}
         <a
-          href="https://www.instagram.com/iamnitinr"
+          href="https://www.instagram.com/carlosm.diaz/"
           target="_blank"
           rel="noopener"
         >
-          iamnitinr
-        </a>
-        ;
-      </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;&nbsp;polywork:{' '}
-        <a
-          href="https://www.polywork.com/nitinranganath"
-          target="_blank"
-          rel="noopener"
-        >
-          nitinranganath
+          carlosm.diaz
         </a>
         ;
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;telegram:{' '}
-        <a href="https://t.me/iamnitinr" target="_blank" rel="noopener">
-          iamnitinr
+        <a href="https://t.me/carlosmdiaz20" target="_blank" rel="noopener">
+          carlosmdiaz20
         </a>
         ;
       </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;codepen:{' '}
-        <a href="https://codepen.io/itsnitinr" target="_blank" rel="noopener">
-          nitinranganath
-        </a>
-        ;
-      </p>
-      <p className={styles.line}>
-        &nbsp;&nbsp;codesandbox:{' '}
-        <a
-          href="https://codesandbox.io/u/itsnitinr"
-          target="_blank"
-          rel="noopener"
-        >
-          itsnitinr
-        </a>
-        ;
-      </p>
+      
       <p className={styles.line}>&#125;</p>
     </div>
   );
