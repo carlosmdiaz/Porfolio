@@ -4,7 +4,7 @@
     "name": "EventPrism",
     "image": "/EventPrism.png",
     "description": "A platform for people look for events near them.",
-    "tags": ["react", "api", "css", "styled-components"],
+    "tags": ["react", "api", "css", "styled-components", "firebase/firestore", "SeatGeek API", "Google Maps API"],
     "source_code": "https://github.com/carlosmdiaz/EventPrism",
     "demo": "https://eventprism.netlify.app/"
   },
@@ -13,7 +13,7 @@
     "name": "Chat App",
     "image": "/ChatApp.png",
     "description": "A platform for people to chat with some one else.",
-    "tags": ["react", "api", "css", "styled-components"],
+    "tags": ["react", "api", "css", "styled-components", "firebase/firestore"],
     "source_code": "https://github.com/carlosmdiaz/Chat-App",
     "demo": "https://carlos-chat-app.netlify.app/"
   },
@@ -22,7 +22,7 @@
     "name": "TODO App",
     "image": "/TODOApp.png",
     "description": "A platform for people to save their todo lists. They can register with their emails and their taks will be saved.",
-    "tags": ["react", "api", "css", "styled-components"],
+    "tags": ["react", "api", "css", "styled-components", "firebase/firestore"],
     "source_code": "https://github.com/carlosmdiaz/TODO-App",
     "demo": "https://carlos-todo-app.netlify.app/"
   }
