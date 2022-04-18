@@ -25,5 +25,15 @@
     "tags": ["react", "api", "css", "styled-components", "firebase/firestore"],
     "source_code": "https://github.com/carlosmdiaz/TODO-App",
     "demo": "https://carlos-todo-app.netlify.app/"
+  },
+  {
+    "id": 4,
+    "name": "Github User App",
+    "image": "/GithubUserApp.png",
+    "description": "A platform for people to look for others github information.",
+    "tags": ["react", "api", "css", "styled-components", "react-redux", "redux/toolkit", "github API"],
+    "source_code": "https://github.com/carlosmdiaz/Github-User-App",
+    "demo": "https://carlos-github-user-app.netlify.app/"
   }
+  
 ]
