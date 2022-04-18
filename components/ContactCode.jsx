@@ -8,7 +8,7 @@ const ContactCode = () => {
       </p>
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
-        <a href="https://nitinranganath.me" target="_blank" rel="noopener">
+        <a href="https://carlosdiaz-porfolio.vercel.app/" target="_blank" rel="noopener">
           nitinranganath.me
         </a>
         ;
